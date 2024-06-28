@@ -11,7 +11,7 @@ public class InputString {
 		String userInput = sc.nextLine();
 		
 		if(userInput.equals("java") || (userInput.equals("JAVA")) || (userInput.equals("Java")) || (userInput.equals("JaVa"))) {
-			System.out.println("Yes");
+			System.out.println("YeS");
 				}
 		else {
 			System.out.println("No");
